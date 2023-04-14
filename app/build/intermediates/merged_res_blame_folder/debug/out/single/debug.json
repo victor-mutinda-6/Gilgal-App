@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_bghyrfrew.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/bghyrfrew.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_sdfhgte.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/sdfhgte.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_imgonen.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/imgonen.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_web.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_web.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_thanks.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/thanks.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_img6.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_img6.xml"
+    },
+    {
+        "merged": "com.example.gilgalorg.app-merged_res-29:/layout_activity_web.xml.flat",
+        "source": "com.example.gilgalorg.app-main-31:/layout/activity_web.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_imgsix.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/imgsix.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_dsfgvnb.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/dsfgvnb.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_img.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_img.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_ryuykmg.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/ryuykmg.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_imgtwo.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/imgtwo.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_dsfvbsw.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/dsfvbsw.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_gilgal.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/gilgal.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_gilgallogo.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/gilgallogo.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_aqfdcxxv.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/aqfdcxxv.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_scholaship.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/scholaship.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_rtgfd.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/rtgfd.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_img4.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_img4.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_kuyr.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/kuyr.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_img3.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_img3.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_kenya.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/kenya.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_none_profit_org.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/none_profit_org.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_fghcbn.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/fghcbn.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_sadfvbfn.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/sadfvbfn.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable_mgth.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/drawable/mgth.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_img5.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_img5.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_img2.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_img2.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/layout_activity_contacts.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-merged_res-29:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.gilgalorg.app-pngs-24:/drawable-xxxhdpi/ic_launcher_background.png"
+    }
+]
